@@ -36,11 +36,10 @@
 
 ## Admin Privileges
 
-**MountRE** requires administrator privileges to function properly. If the script is run without admin rights, it will automatically attempt to re-launch itself with elevated privileges.
+**MountRE** requires administrator privileges to function properly.
 
 ### Running as Administrator:
 - **Right-click** the `mountre.bat` file and choose **Run as Administrator**.
-- Alternatively, you can use the **automatic elevation** feature built into the script, which will prompt you to run the script with admin rights if it's not already elevated.
 
 ## Troubleshooting
 
