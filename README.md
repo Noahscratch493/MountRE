@@ -45,7 +45,6 @@
 ## Troubleshooting
 
 - **"You do not have Administrator privileges"**: Ensure that you're running the script as an administrator.
-- **"Drive letter X: is already in use"**: Make sure no other processes are using the `X:` drive letter before attempting to mount the recovery image.
 
 ## License
 
